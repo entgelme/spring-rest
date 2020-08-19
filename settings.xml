@@ -1,0 +1,5 @@
+<settings>
+    <localRepository>
+        /home/user/workspaces/since2020/kunden/ofd/tekton/container-pipelines/basic-spring-boot-tekton/maven-repo/M2
+    </localRepository>
+</settings>

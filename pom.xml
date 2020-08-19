@@ -18,6 +18,7 @@
         <springboot.version>2.2.6.RELEASE</springboot.version>
         <undertow.version>2.0.28.SP1-redhat-00001</undertow.version>
         <spring.restdocs.version>2.0.3.RELEASE</spring.restdocs.version>
+	<maven.repo.local>/home/user/workspaces/since2020/kunden/ofd/tekton/container-pipelines/basic-spring-boot-tekton/maven-repo/M2</maven.repo.local>
     </properties>
 
     <dependencyManagement>
